@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "files.exclude": {
+        ".pytest_cache": true,
+        ".venv": true
+    }
+}
