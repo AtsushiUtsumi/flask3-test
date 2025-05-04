@@ -17,7 +17,7 @@
 		{
 			"label": "taskF7",
 			"type": "shell",
-			"command": "start http://127.0.0.1:5000/",
+			"command": "start http://127.0.0.1:5000",
 			"presentation": {
 				"echo": true,
 				"reveal": "silent",
